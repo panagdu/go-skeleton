@@ -1,0 +1,1 @@
+Simple Go lang skeleton
